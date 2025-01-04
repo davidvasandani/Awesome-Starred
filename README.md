@@ -1,4 +1,5 @@
 # Awesome automated list of my starred repositories
+# test
 
 * [avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 * [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
