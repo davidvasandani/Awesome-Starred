@@ -134,7 +134,7 @@
 * [ssm-parent](https://github.com/springload/ssm-parent) - Docker entrypoint that gets parameters from AWS SSM Parameter Store
 * [Kraken](https://github.com/jasonxtn/Kraken) - All-in-One Toolkit for BruteForce Attacks
 * [home-cluster](https://github.com/samcday/home-cluster) - 
-* [git-pr](https://github.com/picosh/git-pr) - A pastebin supercharged for git collaboration
+* [patchbin](https://github.com/picosh/patchbin) - A pastebin for patches, supercharged for git collaboration
 * [tskmgr](https://github.com/mathpaquette/tskmgr) - minimalistic distributed task system (Nx Cloud community)
 * [penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 * [vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave) - Visual Studio Code extension to run commands whenever a file is saved.
@@ -497,105 +497,6 @@
 * [docker-flow-stacks](https://github.com/vfarcic/docker-flow-stacks) - 
 * [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 * [logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
-* [flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
-* [zappa-slack-inviter](https://github.com/Miserlou/zappa-slack-inviter) - A server-less Slack inviter
-* [balena-electronjs](https://github.com/balena-io-experimental/balena-electronjs) - electronJS-based resin application template
-* [v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - workforce management app for small businesses
-* [nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
-* [goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-* [elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
-* [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
-* [zeke](https://github.com/Zeke-OS/zeke) - A POSIX-like OS for ARM processors.
-* [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
-* [dockercloud-haproxy](https://github.com/docker-archive/dockercloud-haproxy) - HAproxy image that autoreconfigures itself when used in Docker Cloud
-* [docker-flow-proxy](https://github.com/vfarcic/docker-flow-proxy) - Docker Flow Proxy
-* [docker4drupal](https://github.com/wodby/docker4drupal) - Docker-based Drupal stack
-* [aws_signing_client](https://github.com/sha1sum/aws_signing_client) - Go wrapper for http.Client for Signed AWS Requests
-* [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
-* [healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-* [minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
-* [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
-* [osm-export-ops](https://github.com/ranchodeluxe/osm-export-ops) - osm-export-tools2 provisioning with Ansible
-* [ansible.timezone](https://github.com/adriagalin/ansible.timezone) - Ansible role to set up timezone
-* [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-* [friendlypix](https://github.com/googlearchive/friendlypix) - FriendlyPix is a cross-platform Firebase example app
-* [sensu-docker-node](https://github.com/robertpallas/sensu-docker-node) - Example dockered setup of Sensu monitoring with Node check plugin.
-* [daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
-* [chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
-* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-* [docker-nightmare](https://github.com/ivanvanderbyl/docker-nightmare) - Nightmare JS Headless image
-* [TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
-* [dotfiles](https://github.com/ttaylorr/dotfiles) - There's no place like $HOME.
-* [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-* [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-* [s3env](https://github.com/cameronmaske/s3env) - Manipulate a simple key/value JSON object file in an S3 bucket
-* [WebPageTest.api-nodejs](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API wrapper for NodeJS
-* [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
-* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
-* [squid-in-a-can](https://github.com/jpetazzo/squid-in-a-can) - 
-* [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
-* [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
-* [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
-* [Mackenzie](https://github.com/Miserlou/Mackenzie) - AWS Lambda Infection Toolkit // Persistent Lambda Malware PoC
-* [OSM-HOT-ConvNet](https://github.com/larsroemheld/OSM-HOT-ConvNet) - Using convolutional neural networks to pre-classify images for the humanitarian openstreetmap team (HOT & mapgive).
-* [docker-tippecanoe](https://github.com/jskeates/docker-tippecanoe) - Dockerised version of Mapbox's Tippecanoe on Alpine Linux
-* [osm_monitoring_tool](https://github.com/Hagellach37/osm_monitoring_tool) - monitor OSM database during mapathons and get some statistics
-* [Lambda-AWS-AutoScalingGroups-Route53](https://github.com/FransUrbo/Lambda-AWS-AutoScalingGroups-Route53) - Updating Route53 DNS for AutoScalingGroup using Lambda
-* [aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh) - Manage AWS EC2 SSH access with IAM
-* [LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient solution that is scalable and highly available and can be used with Amazon Cognito for Developer Authenticated Identities.
-* [nginx-template-image](https://github.com/shepmaster/nginx-template-image) - Allow Docker environment variables in nginx configuration files
-* [doctor](https://github.com/minio/doctor) - Doctor is a documentation server for your docs in github
-* [aws-elb-logs-to-elasticsearch](https://github.com/blmr/aws-elb-logs-to-elasticsearch) - 
-* [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
-* [ILab-Media-Tools](https://github.com/jawngee/ILab-Media-Tools) - Comprehensive wordpress media management plugin.
-* [terraform-provider-zip](https://github.com/jaybocc2/terraform-provider-zip) - terraform provider for generating zip data resource from files and contents
-* [afloat](https://github.com/rwu823/afloat) - Always on top solution, quickly install Afloat in macOS
-* [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-* [jenkins2-docker](https://github.com/robmorgan/jenkins2-docker) - Jenkins 2 Docker Image
-* [lambda-untagged-instance-cleanup](https://github.com/1Strategy/lambda-untagged-instance-cleanup) - A Lambda function that terminates untagged instances.
-* [diffie-hellman-key-exchange-demo](https://github.com/tollmanz/diffie-hellman-key-exchange-demo) - Materials for presenting a live demo of Diffie Hellman key exchange principles
-* [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-* [granary](https://github.com/snarfed/granary) - 💬 The social web translator
-* [DbDat](https://github.com/foospidy/DbDat) - Db Database Assessment Tool
-* [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
-* [mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
-* [amazon-docker-devops](https://github.com/lynsei/amazon-docker-devops) - my way to do devops on amazon aws using docker
-* [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
-* [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-* [setup-network-environment](https://github.com/kelseyhightower/setup-network-environment) - Create an environment file with system networking information.
-* [spectral](https://github.com/arkadianriver/spectral) - A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blog site with more than a few pages, have a look at my fork at https://github.com/arkadianriver/arkadianriver.com
-* [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-* [react-native](https://github.com/CanonicalLtd/react-native) - A framework for building native apps with React.
-* [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
-* [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS 
-* [Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
-* [tailor](https://github.com/Enclavely/tailor) - Build beautiful page layouts quickly and easily using your favourite WordPress theme.
-* [anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
-* [myenv](https://github.com/mastermatt/myenv) - Just my dotfiles.
-* [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-* [gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
-* [build-monitor-plugin](https://github.com/jenkinsci/build-monitor-plugin) - Jenkins Build Monitor Plugin
-* [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
-* [relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
-* [superdesk](https://github.com/superdesk/superdesk) - Superdesk is an end-to-end news creation, production, curation, distribution, and publishing platform.
-* [LogoFunhouse](https://github.com/cruffenach/LogoFunhouse) - A demo project for Guilloché generation and animation  
-* [CRToast](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs
-* [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
-* [DR-CoN](https://github.com/grahamjenson/DR-CoN) - Scalable Architecture using Docker, Registrator, Consul, Consul Template Nginx
-* [html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
-* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
-* [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.
-* [go-alexa](https://github.com/mikeflynn/go-alexa) - A collection of Amazon Echo / Alexa tools for Go development.
-* [awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
-* [awesome-static](https://github.com/staystatic/awesome-static) - A collection of awesome static website compiler / builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)
-* [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
-* [atom-compare-files](https://github.com/atom-compare-files/atom-compare-files) - Compares two files and show the diff in the atom editor
-* [docker-jenkins-job-dsl](https://github.com/marcelbirkner/docker-jenkins-job-dsl) - Docker Container with Jenkins Job DSL examples
-* [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
-* [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
-* [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
-* [mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 * [NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 * [sifter](https://github.com/darron/sifter) - Helps to prevent Consul from firing prematurely.
@@ -815,8 +716,8 @@
 * [oocharts-js](https://github.com/tshaddix/oocharts-js) - The original JS frontend for an OOcharts Server.
 * [chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 * [WTFEngine](https://github.com/soulwire/WTFEngine) - An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites
-* [AmazonAffiliateLinkGenerator](https://github.com/fracek/AmazonAffiliateLinkGenerator) - Generate your Amazon affiliate links with one click!
-* [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+* [AmazonAffiliateLinkGenerator](https://github.com/fraceccon/AmazonAffiliateLinkGenerator) - Generate your Amazon affiliate links with one click!
+* [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 * [mustachio](https://github.com/afeld/mustachio) - automatic mustachifying of any image
 * [python-bayeux-client](https://github.com/dkmadigan/python-bayeux-client) - A simple python bayeux client that connects to server using Bayeux protocol and allows for users to receive data published by the server
 * [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -896,6 +797,106 @@
 * [Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies 
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 * [nxlog-to-redis-proxy](https://github.com/blakeblackshear/nxlog-to-redis-proxy) - A proxy to accept post requests from nxlog and send to redis
+* [logging.fun](https://github.com/ac0ra/logging.fun) - logging fun
+* [evalimine](https://github.com/valimised/evalimine) - e-hääletamise tarkvara
+* [simple-ocr-opencv](https://github.com/gitanat/simple-ocr-opencv) - A simple python OCR engine using opencv
+* [Playing-Card-Recognition](https://github.com/arnabdotorg/Playing-Card-Recognition) - Naïve Playing Card Recognition using OpenCV / Python
+* [YouTube-View-increaser](https://github.com/Sadhanandh/YouTube-View-increaser) - Automated YouTube View increaser Bot
+* [tv.js](https://github.com/SamyPesse/tv.js) - Apple TV for Torrent Streaming in JS (Node/Chrome)
+* [cheddar-ios](https://github.com/soffes/cheddar-ios) - Cheddar for iOS
+* [iFixit-iOS](https://github.com/iFixit/iFixit-iOS) - iFixit's iOS app for iPad, iPhone, and iPod touch
+* [iOS-OpenCV](https://github.com/lukagabric/iOS-OpenCV) - iOS OpenCV Sample
+* [tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
+* [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+* [insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails
+* [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
+* [moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+* [swandive](https://github.com/iandennismiller/swandive) - Swandive creates an encrypted VPN that you can use to safely access the Internet from an unprotected network. There are several types of VPN out there, but Swandive is the first (easy) solution that is supported, out-of-the-box, by the iPhone/iPod/iPad.
+* [artandcode.Camera-and-projector-calibration](https://github.com/elliotwoods/artandcode.Camera-and-projector-calibration) - openFrameworks examples for Elliot Woods & Kyle McDonald's "Calibrating Projectors and Cameras: Practical Tools" workshop at Art&&Code 3D, CMU Pittsburgh, October 2011
+* [robotarm](https://github.com/jimjibone/robotarm) - Code for the Eye-Tracking Robotic Arm 4th Year project by engineering students at the University of Leicester.
+* [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on Windows, Linux, and OS X
+* [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
+* [kibana](https://github.com/elastic/kibana) - Your window into all of your data
+* [oculus](https://github.com/etsy/oculus) - The metric correlation component of Etsy's Kale system
+* [skyline](https://github.com/etsy/skyline) - It'll detect your anomalies! Part of the Kale stack.
+* [Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+* [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
+* [awsmonitors](https://github.com/newsapps/awsmonitors) - Cron scripts that report metric data to Amazon CloudWatch
+* [JabbR](https://github.com/JabbR/JabbR) - Collaborative chat done right
+* [rove](https://github.com/aderyabin/rove) - Rove is a service that allows you to pregenerate typical Vagrant builds
+* [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+* [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt) - python RFID / NFC library & tools
+* [AquaTerm](https://github.com/AquaTerm/AquaTerm) - Mac OS X graphics terminal
+* [havarti](https://github.com/jakebasile/havarti) - A Cloudy Cheeseshop
+* [jabber-rt](https://github.com/alcy/jabber-rt) - Jabber & Request Tracker integration
+* [opensprinkler](https://github.com/rayshobby/opensprinkler) - Open-source Arduino-based Sprinkler Valve Controller
+* [scrumforme](https://github.com/kolaborativa/scrumforme) - Developed with web2py and inspired by Agile methodology using Scrum and Kanban simplifying teamwork.
+* [huboard](https://github.com/huboard/huboard) - Kanban board for github issues
+* [rt-extension-assettracker](https://github.com/AssetTracker/rt-extension-assettracker) - Asset Tracker is an extension for Request Tracker. It integrates asset tracking with your favorite ticketing system.
+* [gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
+* [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - 
+* [matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! 
+* [weloveiconfonts](https://github.com/TimPietrusky/weloveiconfonts) - This is like Google Web Fonts, but for Open Source Icon Fonts. Hurray!
+* [rt](https://github.com/bestpractical/rt) - Request Tracker, an enterprise-grade issue tracking system
+* [SiriProxy-WebPowerSwitch](https://github.com/dtomcat/SiriProxy-WebPowerSwitch) - 
+* [SiriProxy-ThatsWhatSheSaid](https://github.com/jdekker/SiriProxy-ThatsWhatSheSaid) - A SiriProxy that makes 'That's What She Said' jokes
+* [gpio-cli](https://github.com/drjayvee/gpio-cli) - Command line interface for RaspberryPi's GPIO
+* [SiriProxy-Facebook](https://github.com/rosswaycaster/SiriProxy-Facebook) - This is a Facebook plugin for SiriProxy.
+* [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) - Adafruit library code for Raspberry Pi
+* [pigredients](https://github.com/rasathus/pigredients) - 
+* [sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
+* [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+* [snowplow](https://github.com/snowplow/snowplow) - The leader in Customer Data Infrastructure
+* [respond-to-it](https://github.com/aaronlerch/respond-to-it) - Debug and respond to web hooks like a pro.
+* [TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
+* [puphpet](https://github.com/puphpet/puphpet) - Vagrant/Puppet GUI
+* [umpire](https://github.com/heroku/umpire) - HTTP metrics monitoring endpoint
+* [passwords](https://github.com/labnol/passwords) - Generate a unique and store password for all your online accounts. 
+* [snoopy](https://github.com/a2o/snoopy) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
+* [pushproxy](https://github.com/mfrister/pushproxy) - A man-in-the-middle proxy for iOS and OS X device push connections
+* [chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
+* [fartscroll.js](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered.
+* [hymaswoodkegerface](https://github.com/anddav87/hymaswoodkegerface) - Hymas Wood Kegerface - RFID enabled Bar Interface and Stock Update system
+* [kegerface](https://github.com/kegerface/kegerface) - A Kegerator Interface!
+* [adagios](https://github.com/opinkerfi/adagios) - Adagios - Web Based Nagios Configuration
+* [instagram-ruby-gem](https://github.com/facebookarchive/instagram-ruby-gem) - The official gem for the Instagram API
+* [skycons](https://github.com/darkskyapp/skycons) - 
+* [chrome-new-tab-timezones](https://github.com/pearkes/chrome-new-tab-timezones) - A new tab page for chrome that displays timezones that matter to you.
+* [InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
+* [python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API.
+* [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
+* [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
+* [downloadify](https://github.com/raldenhoven/downloadify) - Spotify updated their player, I'm sure they don't encrypt their mp3's with the player so you could just modify this and get it to work. 
+* [vagrantboxes-heroku](https://github.com/garethr/vagrantboxes-heroku) - Repository for http://www.vagrantbox.es
+* [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
+* [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
+* [hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
+* [cacti](https://github.com/mrlesmithjr/cacti) - This repo will contain some of my templates and other goodies
+* [ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for macOS
+* [prey-bash-client-modules](https://github.com/prey/prey-bash-client-modules) - Official action and report modules for the Prey Bash client.
+* [PHP-PPT](https://github.com/wbyoko/PHP-PPT) - PHP Password Protected Starter Template for PHP, HTML5 web applications
+* [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
+* [asgard](https://github.com/Netflix/asgard) - [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases
+* [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+* [chef-guacamole](https://github.com/stratustech/chef-guacamole) - Chef cookbook for installing/configuring the guacamole HTML5 remote desktop tunnel/proxy server
+* [legacy-mindmup](https://github.com/mindmup/legacy-mindmup) - Legacy MindMup (v1) code
+* [controlLEDwithRaspberryPi](https://github.com/shuhongwu/controlLEDwithRaspberryPi) - 前提是你的Pi已经安装好了siriproxy和Webiopi
+* [fluffy-toboggans](https://github.com/valkyriesavage/fluffy-toboggans) - H2O IQ - a remote garden watering and monitoring system
+* [siriproxy-squeezebox](https://github.com/mvilrokx/siriproxy-squeezebox) - SImple siriproxy plugin that allows you to control your Squeezebox player with Siri
+* [siriproxy-raspio](https://github.com/nickrw/siriproxy-raspio) - Raspberry PI GPIO plugin for siriproxy
+* [HelioWatcher](https://github.com/sciguy14/HelioWatcher) - The HelioWatcher is a Sun-Tracking Solar Analytics System. Developed by Jason Wright & Jeremy Blum
+* [lightswitch314](https://github.com/thogue/lightswitch314) - 
+* [tinyphone](https://github.com/itp-redial/tinyphone) - a phone to app implementation using Asterisk and Node.js
+* [flomio_drivers_ios](https://github.com/flomio/flomio_drivers_ios) - iOS device drivers for Flomio readers.
+* [gpio](https://github.com/EnotionZ/gpio) - Talk to your Single Board Computer's gpio pins
+* [ArduinoPi-Python](https://github.com/JanStevens/ArduinoPi-Python) - A Python based controller using Flask for the ArduinoPi
+* [margarita](https://github.com/jessepeterson/margarita) - Web frontend for reposado
+* [reposado](https://github.com/wdas/reposado) - Host Apple Software Updates on the hardware and OS of your choice.
+* [aprilFools.css](https://github.com/wesbos/aprilFools.css) - Harmlessly goof up your co-workers browser and chrome dev tools
+* [chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
+* [seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
+* [frontend](https://github.com/photo/frontend) - The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).
+* [hubot-kandan](https://github.com/DamageLabs/hubot-kandan) - Kandan adapter for GitHub's Hubot 
 * [Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.
 * [fontelico.font](https://github.com/fontello/fontelico.font) - Opensource iconic font from Fontello project
 * [fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
@@ -1042,132 +1043,131 @@
 * [Tesseract-OCR-Workflow](https://github.com/alxp/Tesseract-OCR-Workflow) - An Automator workflow plugin for Image Capture to send scanned images through the tesseract OCR software.
 * [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 * [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
-* [SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
-* [GeoIP](https://github.com/kuno/GeoIP) - GeoIP binding for nodejs(>=0.10) and iojs
+* [WinRM](https://github.com/WinRb/WinRM) - Ruby library for Windows Remote Management
 * [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
-* [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-* [requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
+* [GeoIP](https://github.com/kuno/GeoIP) - GeoIP binding for nodejs(>=0.10) and iojs
+* [raw2vmdk](https://github.com/Zapotek/raw2vmdk) - raw2vmdk is an OS independent Java utility that allows you to mount raw disk images, like images created by "dd", using VMware, VirtualBox or any other virtualization platform supporting the VMDK disk format.  It analyzes the raw image and creates an approprietly formatted ".vmdk" file that can be used to mount the image right away.
+* [SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 * [forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
+* [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 * [Templify](https://github.com/endjin/Templify) - A tool for packaging and templating solutions
 * [warranty](https://github.com/chilcote/warranty) - Script to estimate warranty expiration for macs
-* [WinRM](https://github.com/WinRb/WinRM) - Ruby library for Windows Remote Management
-* [chilcote.github.com](https://github.com/chilcote/chilcote.github.com) - 
-* [boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
-* [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
-* [tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
-* [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
-* [noVNC](https://github.com/novnc/noVNC) - VNC client web application
-* [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-* [legacy-jclouds](https://github.com/jclouds/legacy-jclouds) - 
-* [luggage](https://github.com/unixorn/luggage) - Project to automate OS X package creation without using the packagemaker GUI
-* [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter.
-* [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
-* [gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
-* [phonegap](https://github.com/phonegap/phonegap) - access core functions on Android, iPhone and Blackberry using JavaScript
-* [nunit-plugin](https://github.com/jenkinsci/nunit-plugin) - Jenkins nunit plugin
-* [django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django 
-* [chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-* [svn2git](https://github.com/nirvdrum/svn2git) - Ruby tool for importing existing svn projects into git.
 * [git-ftp](https://github.com/ezyang/git-ftp) - A quick and efficient way of pushing changed files to a website via FTP
-* [raw2vmdk](https://github.com/Zapotek/raw2vmdk) - raw2vmdk is an OS independent Java utility that allows you to mount raw disk images, like images created by "dd", using VMware, VirtualBox or any other virtualization platform supporting the VMDK disk format.  It analyzes the raw image and creates an approprietly formatted ".vmdk" file that can be used to mount the image right away.
+* [svn2git](https://github.com/nirvdrum/svn2git) - Ruby tool for importing existing svn projects into git.
+* [chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+* [django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django 
+* [nunit-plugin](https://github.com/jenkinsci/nunit-plugin) - Jenkins nunit plugin
+* [tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
+* [phonegap](https://github.com/phonegap/phonegap) - access core functions on Android, iPhone and Blackberry using JavaScript
+* [gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
+* [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
+* [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter.
+* [luggage](https://github.com/unixorn/luggage) - Project to automate OS X package creation without using the packagemaker GUI
+* [legacy-jclouds](https://github.com/jclouds/legacy-jclouds) - 
+* [requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
+* [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+* [noVNC](https://github.com/novnc/noVNC) - VNC client web application
+* [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
+* [chilcote.github.com](https://github.com/chilcote/chilcote.github.com) - 
+* [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 * [cannoli](https://github.com/rosario/cannoli) - Ruby on Rails click heatmaps generator
-* [logging.fun](https://github.com/ac0ra/logging.fun) - logging fun
-* [evalimine](https://github.com/valimised/evalimine) - e-hääletamise tarkvara
-* [simple-ocr-opencv](https://github.com/gitanat/simple-ocr-opencv) - A simple python OCR engine using opencv
-* [Playing-Card-Recognition](https://github.com/arnabdotorg/Playing-Card-Recognition) - Naïve Playing Card Recognition using OpenCV / Python
-* [YouTube-View-increaser](https://github.com/Sadhanandh/YouTube-View-increaser) - Automated YouTube View increaser Bot
-* [tv.js](https://github.com/SamyPesse/tv.js) - Apple TV for Torrent Streaming in JS (Node/Chrome)
-* [cheddar-ios](https://github.com/soffes/cheddar-ios) - Cheddar for iOS
-* [iFixit-iOS](https://github.com/iFixit/iFixit-iOS) - iFixit's iOS app for iPad, iPhone, and iPod touch
-* [iOS-OpenCV](https://github.com/lukagabric/iOS-OpenCV) - iOS OpenCV Sample
-* [tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
-* [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
-* [insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails
-* [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
-* [moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-* [swandive](https://github.com/iandennismiller/swandive) - Swandive creates an encrypted VPN that you can use to safely access the Internet from an unprotected network. There are several types of VPN out there, but Swandive is the first (easy) solution that is supported, out-of-the-box, by the iPhone/iPod/iPad.
-* [artandcode.Camera-and-projector-calibration](https://github.com/elliotwoods/artandcode.Camera-and-projector-calibration) - openFrameworks examples for Elliot Woods & Kyle McDonald's "Calibrating Projectors and Cameras: Practical Tools" workshop at Art&&Code 3D, CMU Pittsburgh, October 2011
-* [robotarm](https://github.com/jimjibone/robotarm) - Code for the Eye-Tracking Robotic Arm 4th Year project by engineering students at the University of Leicester.
-* [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on Windows, Linux, and OS X
-* [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
-* [kibana](https://github.com/elastic/kibana) - Your window into all of your data
-* [oculus](https://github.com/etsy/oculus) - The metric correlation component of Etsy's Kale system
-* [skyline](https://github.com/etsy/skyline) - It'll detect your anomalies! Part of the Kale stack.
-* [Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-* [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
-* [awsmonitors](https://github.com/newsapps/awsmonitors) - Cron scripts that report metric data to Amazon CloudWatch
-* [JabbR](https://github.com/JabbR/JabbR) - Collaborative chat done right
-* [rove](https://github.com/aderyabin/rove) - Rove is a service that allows you to pregenerate typical Vagrant builds
-* [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
-* [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt) - python RFID / NFC library & tools
-* [AquaTerm](https://github.com/AquaTerm/AquaTerm) - Mac OS X graphics terminal
-* [havarti](https://github.com/jakebasile/havarti) - A Cloudy Cheeseshop
-* [jabber-rt](https://github.com/alcy/jabber-rt) - Jabber & Request Tracker integration
-* [opensprinkler](https://github.com/rayshobby/opensprinkler) - Open-source Arduino-based Sprinkler Valve Controller
-* [scrumforme](https://github.com/kolaborativa/scrumforme) - Developed with web2py and inspired by Agile methodology using Scrum and Kanban simplifying teamwork.
-* [huboard](https://github.com/huboard/huboard) - Kanban board for github issues
-* [rt-extension-assettracker](https://github.com/AssetTracker/rt-extension-assettracker) - Asset Tracker is an extension for Request Tracker. It integrates asset tracking with your favorite ticketing system.
-* [gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
-* [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - 
-* [matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! 
-* [weloveiconfonts](https://github.com/TimPietrusky/weloveiconfonts) - This is like Google Web Fonts, but for Open Source Icon Fonts. Hurray!
-* [rt](https://github.com/bestpractical/rt) - Request Tracker, an enterprise-grade issue tracking system
-* [SiriProxy-WebPowerSwitch](https://github.com/dtomcat/SiriProxy-WebPowerSwitch) - 
-* [SiriProxy-ThatsWhatSheSaid](https://github.com/jdekker/SiriProxy-ThatsWhatSheSaid) - A SiriProxy that makes 'That's What She Said' jokes
-* [gpio-cli](https://github.com/drjayvee/gpio-cli) - Command line interface for RaspberryPi's GPIO
-* [SiriProxy-Facebook](https://github.com/rosswaycaster/SiriProxy-Facebook) - This is a Facebook plugin for SiriProxy.
-* [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) - Adafruit library code for Raspberry Pi
-* [pigredients](https://github.com/rasathus/pigredients) - 
-* [sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-* [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-* [snowplow](https://github.com/snowplow/snowplow) - The leader in Customer Data Infrastructure
-* [respond-to-it](https://github.com/aaronlerch/respond-to-it) - Debug and respond to web hooks like a pro.
-* [TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
-* [puphpet](https://github.com/puphpet/puphpet) - Vagrant/Puppet GUI
-* [umpire](https://github.com/heroku/umpire) - HTTP metrics monitoring endpoint
-* [passwords](https://github.com/labnol/passwords) - Generate a unique and store password for all your online accounts. 
-* [snoopy](https://github.com/a2o/snoopy) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
-* [pushproxy](https://github.com/mfrister/pushproxy) - A man-in-the-middle proxy for iOS and OS X device push connections
-* [chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
-* [fartscroll.js](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered.
-* [hymaswoodkegerface](https://github.com/anddav87/hymaswoodkegerface) - Hymas Wood Kegerface - RFID enabled Bar Interface and Stock Update system
-* [kegerface](https://github.com/kegerface/kegerface) - A Kegerator Interface!
-* [adagios](https://github.com/opinkerfi/adagios) - Adagios - Web Based Nagios Configuration
-* [instagram-ruby-gem](https://github.com/facebookarchive/instagram-ruby-gem) - The official gem for the Instagram API
-* [skycons](https://github.com/darkskyapp/skycons) - 
-* [chrome-new-tab-timezones](https://github.com/pearkes/chrome-new-tab-timezones) - A new tab page for chrome that displays timezones that matter to you.
-* [InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
-* [python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API.
-* [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
-* [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
-* [downloadify](https://github.com/raldenhoven/downloadify) - Spotify updated their player, I'm sure they don't encrypt their mp3's with the player so you could just modify this and get it to work. 
-* [vagrantboxes-heroku](https://github.com/garethr/vagrantboxes-heroku) - Repository for http://www.vagrantbox.es
-* [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
-* [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
-* [hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
-* [cacti](https://github.com/mrlesmithjr/cacti) - This repo will contain some of my templates and other goodies
-* [ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for macOS
-* [prey-bash-client-modules](https://github.com/prey/prey-bash-client-modules) - Official action and report modules for the Prey Bash client.
-* [PHP-PPT](https://github.com/wbyoko/PHP-PPT) - PHP Password Protected Starter Template for PHP, HTML5 web applications
-* [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
-* [asgard](https://github.com/Netflix/asgard) - [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases
-* [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
-* [chef-guacamole](https://github.com/stratustech/chef-guacamole) - Chef cookbook for installing/configuring the guacamole HTML5 remote desktop tunnel/proxy server
-* [legacy-mindmup](https://github.com/mindmup/legacy-mindmup) - Legacy MindMup (v1) code
-* [controlLEDwithRaspberryPi](https://github.com/shuhongwu/controlLEDwithRaspberryPi) - 前提是你的Pi已经安装好了siriproxy和Webiopi
-* [fluffy-toboggans](https://github.com/valkyriesavage/fluffy-toboggans) - H2O IQ - a remote garden watering and monitoring system
-* [siriproxy-squeezebox](https://github.com/mvilrokx/siriproxy-squeezebox) - SImple siriproxy plugin that allows you to control your Squeezebox player with Siri
-* [siriproxy-raspio](https://github.com/nickrw/siriproxy-raspio) - Raspberry PI GPIO plugin for siriproxy
-* [HelioWatcher](https://github.com/sciguy14/HelioWatcher) - The HelioWatcher is a Sun-Tracking Solar Analytics System. Developed by Jason Wright & Jeremy Blum
-* [lightswitch314](https://github.com/thogue/lightswitch314) - 
-* [tinyphone](https://github.com/itp-redial/tinyphone) - a phone to app implementation using Asterisk and Node.js
-* [flomio_drivers_ios](https://github.com/flomio/flomio_drivers_ios) - iOS device drivers for Flomio readers.
-* [gpio](https://github.com/EnotionZ/gpio) - Talk to your Single Board Computer's gpio pins
-* [ArduinoPi-Python](https://github.com/JanStevens/ArduinoPi-Python) - A Python based controller using Flask for the ArduinoPi
-* [margarita](https://github.com/jessepeterson/margarita) - Web frontend for reposado
-* [reposado](https://github.com/wdas/reposado) - Host Apple Software Updates on the hardware and OS of your choice.
-* [aprilFools.css](https://github.com/wesbos/aprilFools.css) - Harmlessly goof up your co-workers browser and chrome dev tools
-* [chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
-* [seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
-* [frontend](https://github.com/photo/frontend) - The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).
-* [hubot-kandan](https://github.com/DamageLabs/hubot-kandan) - Kandan adapter for GitHub's Hubot 
+* [boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
+* [flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
+* [zappa-slack-inviter](https://github.com/Miserlou/zappa-slack-inviter) - A server-less Slack inviter
+* [balena-electronjs](https://github.com/balena-io-experimental/balena-electronjs) - electronJS-based resin application template
+* [v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - workforce management app for small businesses
+* [nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
+* [goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
+* [elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
+* [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
+* [zeke](https://github.com/Zeke-OS/zeke) - A POSIX-like OS for ARM processors.
+* [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
+* [dockercloud-haproxy](https://github.com/docker-archive/dockercloud-haproxy) - HAproxy image that autoreconfigures itself when used in Docker Cloud
+* [docker-flow-proxy](https://github.com/vfarcic/docker-flow-proxy) - Docker Flow Proxy
+* [docker4drupal](https://github.com/wodby/docker4drupal) - Docker-based Drupal stack
+* [aws_signing_client](https://github.com/sha1sum/aws_signing_client) - Go wrapper for http.Client for Signed AWS Requests
+* [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
+* [healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
+* [minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
+* [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
+* [osm-export-ops](https://github.com/ranchodeluxe/osm-export-ops) - osm-export-tools2 provisioning with Ansible
+* [ansible.timezone](https://github.com/adriagalin/ansible.timezone) - Ansible role to set up timezone
+* [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+* [friendlypix](https://github.com/googlearchive/friendlypix) - FriendlyPix is a cross-platform Firebase example app
+* [sensu-docker-node](https://github.com/robertpallas/sensu-docker-node) - Example dockered setup of Sensu monitoring with Node check plugin.
+* [daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
+* [chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+* [docker-nightmare](https://github.com/ivanvanderbyl/docker-nightmare) - Nightmare JS Headless image
+* [TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
+* [dotfiles](https://github.com/ttaylorr/dotfiles) - There's no place like $HOME.
+* [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+* [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+* [s3env](https://github.com/cameronmaske/s3env) - Manipulate a simple key/value JSON object file in an S3 bucket
+* [WebPageTest.api-nodejs](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API wrapper for NodeJS
+* [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
+* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
+* [squid-in-a-can](https://github.com/jpetazzo/squid-in-a-can) - 
+* [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
+* [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
+* [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
+* [Mackenzie](https://github.com/Miserlou/Mackenzie) - AWS Lambda Infection Toolkit // Persistent Lambda Malware PoC
+* [OSM-HOT-ConvNet](https://github.com/larsroemheld/OSM-HOT-ConvNet) - Using convolutional neural networks to pre-classify images for the humanitarian openstreetmap team (HOT & mapgive).
+* [docker-tippecanoe](https://github.com/jskeates/docker-tippecanoe) - Dockerised version of Mapbox's Tippecanoe on Alpine Linux
+* [osm_monitoring_tool](https://github.com/Hagellach37/osm_monitoring_tool) - monitor OSM database during mapathons and get some statistics
+* [Lambda-AWS-AutoScalingGroups-Route53](https://github.com/FransUrbo/Lambda-AWS-AutoScalingGroups-Route53) - Updating Route53 DNS for AutoScalingGroup using Lambda
+* [aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh) - Manage AWS EC2 SSH access with IAM
+* [LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient solution that is scalable and highly available and can be used with Amazon Cognito for Developer Authenticated Identities.
+* [nginx-template-image](https://github.com/shepmaster/nginx-template-image) - Allow Docker environment variables in nginx configuration files
+* [doctor](https://github.com/minio/doctor) - Doctor is a documentation server for your docs in github
+* [aws-elb-logs-to-elasticsearch](https://github.com/blmr/aws-elb-logs-to-elasticsearch) - 
+* [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
+* [ILab-Media-Tools](https://github.com/jawngee/ILab-Media-Tools) - Comprehensive wordpress media management plugin.
+* [terraform-provider-zip](https://github.com/jaybocc2/terraform-provider-zip) - terraform provider for generating zip data resource from files and contents
+* [afloat](https://github.com/rwu823/afloat) - Always on top solution, quickly install Afloat in macOS
+* [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+* [jenkins2-docker](https://github.com/robmorgan/jenkins2-docker) - Jenkins 2 Docker Image
+* [lambda-untagged-instance-cleanup](https://github.com/1Strategy/lambda-untagged-instance-cleanup) - A Lambda function that terminates untagged instances.
+* [diffie-hellman-key-exchange-demo](https://github.com/tollmanz/diffie-hellman-key-exchange-demo) - Materials for presenting a live demo of Diffie Hellman key exchange principles
+* [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+* [granary](https://github.com/snarfed/granary) - 💬 The social web translator
+* [DbDat](https://github.com/foospidy/DbDat) - Db Database Assessment Tool
+* [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+* [mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
+* [amazon-docker-devops](https://github.com/lynsei/amazon-docker-devops) - my way to do devops on amazon aws using docker
+* [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
+* [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+* [setup-network-environment](https://github.com/kelseyhightower/setup-network-environment) - Create an environment file with system networking information.
+* [spectral](https://github.com/arkadianriver/spectral) - A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blog site with more than a few pages, have a look at my fork at https://github.com/arkadianriver/arkadianriver.com
+* [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+* [react-native](https://github.com/CanonicalLtd/react-native) - A framework for building native apps with React.
+* [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
+* [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS 
+* [Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
+* [tailor](https://github.com/Enclavely/tailor) - Build beautiful page layouts quickly and easily using your favourite WordPress theme.
+* [anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
+* [myenv](https://github.com/mastermatt/myenv) - Just my dotfiles.
+* [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+* [gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
+* [build-monitor-plugin](https://github.com/jenkinsci/build-monitor-plugin) - Jenkins Build Monitor Plugin
+* [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
+* [relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
+* [superdesk](https://github.com/superdesk/superdesk) - Superdesk is an end-to-end news creation, production, curation, distribution, and publishing platform.
+* [LogoFunhouse](https://github.com/cruffenach/LogoFunhouse) - A demo project for Guilloché generation and animation  
+* [CRToast](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs
+* [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
+* [DR-CoN](https://github.com/grahamjenson/DR-CoN) - Scalable Architecture using Docker, Registrator, Consul, Consul Template Nginx
+* [html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
+* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+* [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.
+* [go-alexa](https://github.com/mikeflynn/go-alexa) - A collection of Amazon Echo / Alexa tools for Go development.
+* [awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
+* [awesome-static](https://github.com/staystatic/awesome-static) - A collection of awesome static website compiler / builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)
+* [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+* [atom-compare-files](https://github.com/atom-compare-files/atom-compare-files) - Compares two files and show the diff in the atom editor
+* [docker-jenkins-job-dsl](https://github.com/marcelbirkner/docker-jenkins-job-dsl) - Docker Container with Jenkins Job DSL examples
+* [esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
+* [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
+* [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
+* [mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
