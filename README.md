@@ -1,5 +1,6 @@
 # Awesome automated list of my starred repositories
 
+* [kado](https://github.com/scastiel/kado) - Kadō — A privacy-first habit tracker for iPhone and iPad.
 * [mailx](https://github.com/ivpn/mailx) - Audited, Open-Source Email Aliasing Service
 * [bitbang-cli](https://github.com/richlegrand/bitbang-cli) - Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.
 * [twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
@@ -44,7 +45,7 @@
 * [Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 * [production-saas-starter](https://github.com/moasq/production-saas-starter) - Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch.
 * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-* [tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) - 471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
+* [tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) - Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com.
 * [mcp-shark](https://github.com/mcp-shark/mcp-shark) - Wireshark-like forensic analysis for Model Context Protocol communications  Capture, inspect, and investigate all HTTP requests and responses between your IDE and MCP servers
 * [obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian
 * [incant](https://github.com/lnussbaum/incant) - Incus frontend to describe and provision development environments
@@ -726,7 +727,7 @@
 * [dbyll](https://github.com/dbtek/dbyll) - Stylish, minimalistic theme for jekyll.
 * [vagrant-foodshow](https://github.com/express42/vagrant-foodshow) - Vagrant plugin for ngrok
 * [node-imessage](https://github.com/nicola/node-imessage) - :mailbox_with_mail: Query iMessage from terminal and NodeJS
-* [loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision making tool
+* [loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision-making tool
 * [diy-checkout](https://github.com/airbrite/diy-checkout) - DIY Coin Checkout – Customizable checkout template
 * [portainer](https://github.com/duedil-ltd/portainer) - Apache Mesos framework for building Docker images on a cluster of machines
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -895,7 +896,7 @@
 * [Varnish-Agent-Dashboard](https://github.com/ITLinuxCL/Varnish-Agent-Dashboard) - Real time Varnish Cache metrics dashboard
 * [Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies 
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-* [nxlog-to-redis-proxy](https://github.com/blakeblackshear/nxlog-to-redis-proxy) - A proxy to accept post requests from nxlog and send to redis
+* [hubot-kandan](https://github.com/DamageLabs/hubot-kandan) - Kandan adapter for GitHub's Hubot 
 * [Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.
 * [fontelico.font](https://github.com/fontello/fontelico.font) - Opensource iconic font from Fontello project
 * [fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
@@ -1041,19 +1042,18 @@
 * [Tesseract-OCR-Workflow](https://github.com/alxp/Tesseract-OCR-Workflow) - An Automator workflow plugin for Image Capture to send scanned images through the tesseract OCR software.
 * [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 * [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
-* [WinRM](https://github.com/WinRb/WinRM) - Ruby library for Windows Remote Management
+* [tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
 * [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-* [SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 * [raw2vmdk](https://github.com/Zapotek/raw2vmdk) - raw2vmdk is an OS independent Java utility that allows you to mount raw disk images, like images created by "dd", using VMware, VirtualBox or any other virtualization platform supporting the VMDK disk format.  It analyzes the raw image and creates an approprietly formatted ".vmdk" file that can be used to mount the image right away.
+* [SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 * [forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
-* [nunit-plugin](https://github.com/jenkinsci/nunit-plugin) - Jenkins nunit plugin
-* [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
+* [Templify](https://github.com/endjin/Templify) - A tool for packaging and templating solutions
 * [warranty](https://github.com/chilcote/warranty) - Script to estimate warranty expiration for macs
-* [GeoIP](https://github.com/kuno/GeoIP) - GeoIP binding for nodejs(>=0.10) and iojs
+* [WinRM](https://github.com/WinRb/WinRM) - Ruby library for Windows Remote Management
 * [chilcote.github.com](https://github.com/chilcote/chilcote.github.com) - 
 * [boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 * [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
-* [tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
+* [GeoIP](https://github.com/kuno/GeoIP) - GeoIP binding for nodejs(>=0.10) and iojs
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 * [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 * [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
@@ -1061,15 +1061,17 @@
 * [legacy-jclouds](https://github.com/jclouds/legacy-jclouds) - 
 * [luggage](https://github.com/unixorn/luggage) - Project to automate OS X package creation without using the packagemaker GUI
 * [teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter.
-* [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
+* [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 * [gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
-* [Templify](https://github.com/endjin/Templify) - A tool for packaging and templating solutions
+* [phonegap](https://github.com/phonegap/phonegap) - access core functions on Android, iPhone and Blackberry using JavaScript
 * [cannoli](https://github.com/rosario/cannoli) - Ruby on Rails click heatmaps generator
 * [django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django 
 * [chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 * [svn2git](https://github.com/nirvdrum/svn2git) - Ruby tool for importing existing svn projects into git.
 * [git-ftp](https://github.com/ezyang/git-ftp) - A quick and efficient way of pushing changed files to a website via FTP
-* [phonegap](https://github.com/phonegap/phonegap) - access core functions on Android, iPhone and Blackberry using JavaScript
+* [nunit-plugin](https://github.com/jenkinsci/nunit-plugin) - Jenkins nunit plugin
+* [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
+* [nxlog-to-redis-proxy](https://github.com/blakeblackshear/nxlog-to-redis-proxy) - A proxy to accept post requests from nxlog and send to redis
 * [logging.fun](https://github.com/ac0ra/logging.fun) - logging fun
 * [evalimine](https://github.com/valimised/evalimine) - e-hääletamise tarkvara
 * [simple-ocr-opencv](https://github.com/gitanat/simple-ocr-opencv) - A simple python OCR engine using opencv
@@ -1169,4 +1171,3 @@
 * [chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 * [seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 * [frontend](https://github.com/photo/frontend) - The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).
-* [hubot-kandan](https://github.com/DamageLabs/hubot-kandan) - Kandan adapter for GitHub's Hubot 
